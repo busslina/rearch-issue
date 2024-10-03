@@ -1,7 +1,7 @@
 import 'package:rearch/rearch.dart';
 
 int globalCounterCapsule(CapsuleHandle use) {
-  throw ('Test errror');
+  throw ('Test error');
 
   // ignore: dead_code
   return 55;
